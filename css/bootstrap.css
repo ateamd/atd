@@ -6255,6 +6255,7 @@ a.badge:focus {
     left: 0px;
     border-bottom: 2px solid #36D4BA;
     width: 100%;
+    background-color:white;
 }
 
 .logo {
