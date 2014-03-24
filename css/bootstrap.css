@@ -6172,6 +6172,7 @@ a.badge:focus {
   margin:25% 0 10px 0;
   text-align: center;
 }
+<<<<<<< HEAD
 
 .menug {
     overflow: hidden;
@@ -6257,3 +6258,33 @@ a.badge:focus {
       padding-top:2px; 
     }
 
+=======
+#aboutus{
+  width:100%;
+  height:100%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#portfolio{
+  width:100%;
+  height:100%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#clients{
+  width:100%;
+  height:100%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#contact{
+  width:100%;
+  height:80%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#footer{
+  width:100%;
+  height:20%;
+}
+>>>>>>> 28c699f9b2e4afd898f8e253ee0c63181108ea67
