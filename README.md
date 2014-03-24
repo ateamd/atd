@@ -1,2 +1,2 @@
 Strona do obejrzenia na domenie;
-atd.adwmicro.pl
+http://atd.adwmicro.pl/
