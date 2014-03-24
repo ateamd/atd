@@ -15,7 +15,12 @@ session_start();
 
     <body>
     <div class="container">
-        
+        <div id="menu">
+            <?php include 'section/menu.php'; ?>
+        </div>
+
+        <div id="scrolls">
+            <?php include 'section/scrolls.php'; ?>
         </div>
     </body>
 </html>
