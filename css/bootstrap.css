@@ -6215,16 +6215,9 @@ a.badge:focus {
     opacity: 1;
 }
 
-.menug li:hover {
+.menug li a:hover {
     color: #36D4BA;
-    display: inline-block;
-    font: 24px Lobster, Arial, sans-serif;
-    padding: 9px 9px 0px;
-    position: relative;
-    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.6);
-    z-index: 2;
-    text-decoration: none !important;
-    white-space: nowrap;
+    
 }
 
 .menug li a {
