@@ -7,6 +7,7 @@ session_start();
          <meta charset="utf-8">
          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
             <title>ATD TEAM</title>
+            <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
             <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
             <link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
             <link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
