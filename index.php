@@ -23,5 +23,25 @@ session_start();
         <div id="scrolls">
             <?php include 'section/scrolls.php'; ?>
         </div>
+
+        <div id="aboutus">
+            <?php include 'section/aboutus.php'; ?>
+        </div>
+
+        <div id="portfolio">
+            <?php include 'section/portfolio.php'; ?>
+        </div>
+
+        <div id="clients">
+            <?php include 'section/clients.php'; ?>
+        </div>
+
+        <div id="contact">
+            <?php include 'section/contact.php'; ?>
+        </div>
+
+        <div id="footer">
+            <?php include 'section/footer.php'; ?>
+        </div>
     </body>
 </html>

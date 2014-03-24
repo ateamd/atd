@@ -6174,3 +6174,31 @@ a.badge:focus {
   margin:25% 0 10px 0;
   text-align: center;
 }
+#aboutus{
+  width:100%;
+  height:100%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#portfolio{
+  width:100%;
+  height:100%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#clients{
+  width:100%;
+  height:100%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#contact{
+  width:100%;
+  height:80%;
+  margin:25% 0 10px 0;
+  text-align: center;
+}
+#footer{
+  width:100%;
+  height:20%;
+}
