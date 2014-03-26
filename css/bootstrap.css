@@ -239,6 +239,7 @@ body {
     line-height: 20px;
     color: #333333;
     background-color: #ffffff;
+    overflow-x:hidden;
 }
 
 a {
@@ -6266,19 +6267,14 @@ a.badge:focus {
     margin: 25% 0 10px 0;
     text-align: center;
 }
-.onast{
-    z-index: 10;
+
+.onast {
     color: white;
     display: inline-block;
     font: 26px Lobster, Tahoma, sans-serif;
-     
-padding-right: 100px;
-padding-top: 200px;
-padding-left: 10px;
-    
-    position: absolute;
-    
+
 }
+
 .onasb {
     z-index: 9989;
     height: 520px;
@@ -6316,8 +6312,17 @@ padding-left: 10px;
     margin-left: 10px;
 
 }
+
 .br {
     margin-top: -10px;
     margin-bottom: 36px;
+}
+
+.glass {
+    width: 51%;
+    height: 520px;
+    background-color: rgba(54, 212, 186, 0.5);
+    position: absolute;
+    margin-left: 590px;
 }
 
