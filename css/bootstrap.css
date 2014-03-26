@@ -6280,7 +6280,7 @@ a.badge:focus {
 .onasb {
     z-index: 9989;
     height: 520px;
-    margin-left: -210px;
+    margin-left: -260px;
     width: 140% !important;
 }
   
@@ -6329,7 +6329,7 @@ a.badge:focus {
     height: 520px;
     background-color: rgba(54, 212, 186, 0.5);
     position: absolute;
-    margin-left: 590px;
+    margin-left: 34%;
 }
 
 
