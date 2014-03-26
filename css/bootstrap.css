@@ -6319,6 +6319,10 @@ a.badge:focus {
     margin-top: -10px;
     margin-bottom: 36px;
 }
+.brbr {
+    margin-top: -20px;
+    margin-bottom: 66px;
+}
 
 .glass {
     width: 51%;
@@ -6327,4 +6331,41 @@ a.badge:focus {
     position: absolute;
     margin-left: 590px;
 }
+
+
+.demo {
+    width: 75%;
+    height: 63%;
+}
+
+.height_portfolio{
+    height:40%;
+}
+
+.br_portfolio{
+    height:80px;
+}
+
+.table_portfolio{
+    height:100%;
+}
+
+.portfolio_text {
+    color: black;
+    display: inline-block;
+    font: 20px Lobster, Tahoma, sans-serif;
+    padding-left: 33px;
+    text-align: center;
+    width: 74%;
+}
+.portfolio_border{
+    border-style:solid;
+    border-right-width:5px;
+    border-left-width:0px;
+    border-top-width:0px;
+    border-bottom-width:0px;
+    border-color: rgb(54, 212, 186);
+}
+
+
 

@@ -1,6 +1,6 @@
 <div class="br">
 <h1>O nas</h1>
-<h2>Poznaj nasza drużynę</h2>
+<h3>Poznaj nasza drużynę</h3>
     </div>
 
 <div class="glass"><div class="onast" > Jesteśmy grupą trzech
