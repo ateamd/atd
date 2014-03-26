@@ -1,5 +1,7 @@
+<div class="br">
 <h1>O nas</h1>
 <h2>Poznaj nasza drużynę</h2>
+    </div>
 
 	
 <div class="onast" > Jesteśmy grupą trzech 
@@ -9,7 +11,7 @@ internetowych . Karzdą stronę
 tworzymy z pasja i 
 zaangażowaniem</div>
 
-<img src="img/Onas/beg.png" class="onasb" ></img>
+<img src="img/section-aboutus-img/background.png" class="onasb" />
 
 
 

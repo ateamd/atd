@@ -99,9 +99,9 @@ sub {
 }
 
 img {
-    width: auto\9;
+    width: auto;
     height: auto;
-    max-width: 100%;
+    max-width: 140%;
     vertical-align: middle;
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -6279,10 +6279,11 @@ padding-left: 10px;
     position: absolute;
     
 }
-.onasb{
-    z-index:9;
-    
-    height: 673px;
+.onasb {
+    z-index: 9989;
+    height: 520px;
+    margin-left: -210px;
+    width: 140% !important;
 }
   
 
@@ -6314,5 +6315,9 @@ padding-left: 10px;
 .center{
     margin-left: 10px;
 
+}
+.br {
+    margin-top: -10px;
+    margin-bottom: 36px;
 }
 
