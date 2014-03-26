@@ -6266,6 +6266,25 @@ a.badge:focus {
     margin: 25% 0 10px 0;
     text-align: center;
 }
+.onast{
+    z-index: 10;
+    color: white;
+    display: inline-block;
+    font: 26px Lobster, Tahoma, sans-serif;
+     
+padding-right: 100px;
+padding-top: 200px;
+padding-left: 10px;
+    
+    position: absolute;
+    
+}
+.onasb{
+    z-index:9;
+    
+    height: 673px;
+}
+  
 
 #portfolio {
     width: 100%;
