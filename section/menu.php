@@ -1,6 +1,9 @@
 <div class="menugs"></div>
+    <ul class="jen">
+            <li id="pl" ><a href="?lang=pl" >PL</li>           
+            <li id="eng" ><a href="?lang=ang">ENG</li><ul>
     <div class="center">
-        <ul class="menug">
+            <ul class="menug">
             <li id="hm"><a href="http://atd.adwmicro.pl"><img src="img/section-menu-img/logoatd.png" class="logo"/></a></li>
             <li id="st"><a href="javascript:jumpScroll1()">Start</a></li>
             <li id="au"><a href="javascript:jumpScroll2()">O nas</a></li>
