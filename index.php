@@ -1,5 +1,6 @@
 <?php
 session_start();
+require_once('multilanguage.php');
 ?>
 <!DOCTYPE html>
 <html>
