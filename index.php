@@ -11,6 +11,7 @@ session_start();
             <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
             <link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
             <link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+            <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
             <link rel="SHORTCUT ICON" href=""type="image/x-icon">
     </head>
 
