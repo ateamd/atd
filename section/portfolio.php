@@ -11,7 +11,7 @@
 
     <h3>To już zrobiliśmy</h3>
 </div>
-
+<div class="portfolio_background">
 <table>
     <tr class="height_portfolio">
         <td class="portfolio_border">
@@ -49,3 +49,4 @@
         </td>
     </tr>
 </table>
+    </div>

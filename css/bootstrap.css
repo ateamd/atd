@@ -2007,10 +2007,11 @@ legend + .control-group {
 }
 
 table {
-    max-width: 100%;
+    max-width: 65%;
     background-color: transparent;
     border-collapse: collapse;
     border-spacing: 0;
+    margin-left: 10%;
 }
 
 .table {
@@ -6285,14 +6286,14 @@ a.badge:focus {
     width: 140% !important;
 
 }
+
 .glass {
-    width: 830px;
+    width: 51%;
     height: 520px;
     background-color: rgba(54, 212, 186, 0.5);
     position: absolute;
-    margin-left: 550px;
+    margin-left: 34%;
 }
-  
 
 #portfolio {
     width: 100%;
@@ -6328,13 +6329,11 @@ a.badge:focus {
     margin-top: -10px;
     margin-bottom: 36px;
 }
+
 .brbr {
     margin-top: -20px;
     margin-bottom: 66px;
 }
-
-
-
 
 .demo {
     width: 75%;
@@ -6369,6 +6368,13 @@ a.badge:focus {
     border-bottom-width:0px;
     border-color: rgb(54, 212, 186);
 }
+
+.portfolio_background {
+    background-image: url("../img/section-portfolio-img/bg1.png");
+    width: 1920px;
+    margin-left: -210px;
+}
+
 
 
 
