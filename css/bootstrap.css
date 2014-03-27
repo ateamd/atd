@@ -6375,6 +6375,16 @@ a.badge:focus {
     margin-left: -210px;
 }
 
+.portfolio_strzalki_l {
+    width: 166px;
+    height: 36%;
+    margin-left: -20px;
+}
 
+.portfolio_strzalki_r {
+    width: 166px;
+    height: 36%;
+    margin-left: 0px;
+}
 
 
