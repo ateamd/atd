@@ -6274,6 +6274,7 @@ a.badge:focus {
     font: 26px Lobster, Tahoma, sans-serif;
     padding-left: 10px;
     margin-top: 10%;
+    margin-right: 10%;
     text-align: center;
 }
 
@@ -6282,6 +6283,14 @@ a.badge:focus {
     height: 520px;
     margin-left: -260px;
     width: 140% !important;
+
+}
+.glass {
+    width: 830px;
+    height: 520px;
+    background-color: rgba(54, 212, 186, 0.5);
+    position: absolute;
+    margin-left: 550px;
 }
   
 
@@ -6324,13 +6333,7 @@ a.badge:focus {
     margin-bottom: 66px;
 }
 
-.glass {
-    width: 51%;
-    height: 520px;
-    background-color: rgba(54, 212, 186, 0.5);
-    position: absolute;
-    margin-left: 34%;
-}
+
 
 
 .demo {
