@@ -6412,12 +6412,13 @@ a.badge:focus {
     text-align: center;
     width: 74%;
 }
+
 .portfolio_border{
-    border-style:solid;
-    border-right-width:5px;
-    border-left-width:0px;
-    border-top-width:0px;
-    border-bottom-width:0px;
+    border-style: solid;
+    border-right-width: 5px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
     border-color: rgb(54, 212, 186);
 }
 
@@ -6425,6 +6426,18 @@ a.badge:focus {
     background-image: url("../img/section-portfolio-img/bg1.png");
     width: 1920px;
     margin-left: -210px;
+}
+
+.portfolio_strzalki_l {
+    width: 166px;
+    height: 36%;
+    margin-left: -20px;
+}
+
+.portfolio_strzalki_r {
+    width: 166px;
+    height: 36%;
+    margin-left: 0px;
 }
 
 
