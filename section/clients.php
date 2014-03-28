@@ -11,6 +11,7 @@
     <h1>Klienci</h1>
     <h3>Zaufało nam już :</h3>
     </div>
+<center>
 <table class="table_clients">
     <tr>
     <td>
@@ -78,7 +79,7 @@
 
             </div></td></tr>
     </table>
-
+</center>
 
 <script type="text/javascript">
 

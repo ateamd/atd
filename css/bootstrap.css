@@ -6425,7 +6425,7 @@ a.badge:focus {
 .portfolio_background {
     background-image: url("../img/section-portfolio-img/bg1.png");
     width: 1920px;
-    margin-left: -210px;
+    margin-left: -225px;
 }
 
 .portfolio_strzalki_l {
@@ -6511,7 +6511,7 @@ a.badge:focus {
 }
 
 .table_clients {
-    margin-left: 3%;
+    margin-left: 0%;
     width: 100% !important;
     height: 100%;
 }
