@@ -6447,38 +6447,38 @@ a.badge:focus {
 #slideshow {
     margin: 50px auto;
     position: relative;
-    width: 250px;
+    width: 232px;
     height: 123px;
     padding: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
-    text-align:left;
+    text-align: left;
 }
 #slideshow_1 {
     margin: 50px auto;
     position: relative;
-    width: 240px;
-    height: 240px;
+    width: 232px;
+    height: 123px;
     padding: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
-    text-align:left;
+    text-align: left;
 }
 #slideshow_2 {
     margin: 50px auto;
     position: relative;
-    width: 240px;
-    height: 240px;
+    width: 232px;
+    height: 123px;
     padding: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
-    text-align:left;
+    text-align: left;
 }
 #slideshow_3 {
     margin: 50px auto;
     position: relative;
-    width: 240px;
-    height: 240px;
+    width: 232px;
+    height: 123px;
     padding: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
-    text-align:left;
+    text-align: left;
 }
 
 #slideshow > div {

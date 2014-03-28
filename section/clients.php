@@ -19,13 +19,13 @@
             <img src="img/section-clients-img/logo_1.jpg" class="clients_img">
         </div>
         <div>
-            <img src="img/section-clients-img/logo_1.jpg" class="clients_img">
+            <img src="img/section-clients-img/logo_2.jpg" class="clients_img">
         </div>
         <div>
-            <img src="img/section-clients-img/logo_1.jpg" class="clients_img">
+            <img src="img/section-clients-img/logo_3.jpg" class="clients_img">
         </div>
         <div>
-            <img src="img/section-clients-img/logo_1.jpg" class="clients_img">
+            <img src="img/section-clients-img/logo_4.jpg" class="clients_img">
         </div>
 
     </div></td>
