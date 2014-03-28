@@ -8,8 +8,8 @@
 ?>
 
 <div class="br">
-    <h1>Klienci</h1>
-    <h3>Zaufało nam już :</h3>
+    <h1><?php echo $lang['clients']; ?></h1>
+    <h3><?php echo $lang['clients_2']; ?></h3>
     </div>
 <center>
 <table class="table_clients">

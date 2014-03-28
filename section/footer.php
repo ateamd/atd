@@ -6,4 +6,4 @@
  * Time: 14:21
  */
 ?>
-<h3>Footer</h3>
+<h3><?php echo $lang['footer']; ?></h3>

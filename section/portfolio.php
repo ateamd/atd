@@ -7,9 +7,9 @@
  */
 ?>
 <div class="brbr">
-    <h1>Portfolio</h1>
+    <h1><?php echo $lang['portfolio']; ?></h1>
 
-    <h3>To już zrobiliśmy</h3>
+    <h3><?php echo $lang['portfolio_2']; ?></h3>
 </div>
 <div class="portfolio_background">
     <table>
@@ -40,10 +40,7 @@
             </td>
             <td>
                 <div class="portfolio_text">
-                    Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz
-                    w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza
-                    do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle
-                    elektronicznym, pozostając praktycznie niezmienionym.
+                   <?php echo $lang['portfolio_opis']; ?>
                 </div>
             </td>
         </tr>
@@ -64,11 +61,7 @@
         <tr class="height_portfolio">
             <td>
                 <div class="portfolio_text">
-                    Lorem Ipsum jest tekstem stosowanym jako przykładowy
-                    wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty
-                    w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki.
-                    Pięć wieków później zaczął być używany przemyśle elektronicznym,
-                    pozostając praktycznie niezmienionym..
+                   <?php echo $lang['portfolio_opis']; ?>
                 </div>
             </td>
             <td class="portfolio_border">

@@ -6,4 +6,4 @@
  * Time: 14:21
  */
 ?>
-<h1>Kontakt</h1>
+<h1><?php echo $lang['contact']; ?></h1>

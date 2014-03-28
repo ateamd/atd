@@ -9,9 +9,9 @@ $lang['scroll']= 'Scroluj stronę w dół aby dowiedziec się</br> więcej o nas
 $lang['scroll_2']= 'Przewiń w dół';
 $lang['about_2'] = 'Poznaj nasza drużynę';
 $lang['description'] = 'Jesteśmy grupą trzech webmasterów zajmujacych się projektowaniem i tworzeniem stron internetowych . Każdą stronę tworzymy z pasja i zaangażowaniem';
-$lang['ritetoo'] ='Napisz do nas.';
-$lang['name'] ='Imię i Nazwisko:';
-$lang['massage'] ='Treść wiadomości:';
-$lang['send'] ='Wyślij formularz';
-$lang['clear'] ='Оczyścić';
+$lang['portfolio_2']= 'To już zrobiliśmy';
+$lang['portfolio_opis']= 'Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym.';
+$lang['clients_2']= 'Zaufało nam już';
+$lang['contact']= 'Kontakt';
+$lang['footer']= 'Stopka';
 ?>
