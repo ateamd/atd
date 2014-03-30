@@ -7,6 +7,9 @@
  *
  * Designed and built with all the love in the world by @mdo and @fat.
  */
+ @font-face {
+font-family: "Raleway-Light"; src: url(fonts/Raleway-Light.ttf);
+}
 
 .clearfix {
     *zoom: 1;
@@ -234,7 +237,7 @@ textarea {
 
 body {
     margin: 0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway-Light', sans-serif;
     font-size: 14px;
     line-height: 20px;
     color: #333333;

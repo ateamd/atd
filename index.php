@@ -8,7 +8,6 @@ require_once('multilanguage.php');
          <meta charset="utf-8">
          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
             <title>ATD TEAM</title>
-            <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
             <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
             <link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
             <link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
@@ -17,10 +16,10 @@ require_once('multilanguage.php');
             <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
             <script src="js/carousel_script.js"></script>
             <link rel="SHORTCUT ICON" href=""type="image/x-icon">
-             <script type="text/javascript" src="js/jquery-1.7.1.js"></script>
-             <script type="text/javascript" src="js/jquery.ui.core.js"></script>
-             <script type="text/javascript" src="js/jquery.ui.widget.js"></script>
-             <script type="text/javascript" src="js/jquery.ui.rcarousel.js"></script>
+            <script type="text/javascript" src="js/jquery-1.7.1.js"></script>
+            <script type="text/javascript" src="js/jquery.ui.core.js"></script>
+            <script type="text/javascript" src="js/jquery.ui.widget.js"></script>
+            <script type="text/javascript" src="js/jquery.ui.rcarousel.js"></script>
     </head>
 
     <body>
