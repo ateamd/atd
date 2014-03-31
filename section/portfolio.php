@@ -17,7 +17,7 @@
             <td>
 
             </td>
-            <td class="portfolio_border">
+            <td>
 
             </td>
             <td>
@@ -78,7 +78,7 @@
             <td>
 
             </td>
-            <td class="portfolio_border">
+            <td>
 
             </td>
             <td>
