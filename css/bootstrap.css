@@ -6322,12 +6322,12 @@ a.badge:focus {
 }
 
 .onast {
-    color: white;
+    color: rgb(255, 255, 255);
     display: inline-block;
-    font: 26px Lobster, Tahoma, sans-serif;
-    padding-left: 10px;
+    font: 44px Raleway-Regular, sans-serif;
+    padding-left: 25px;
     margin-top: 10%;
-    margin-right: 10%;
+    margin-right: 3%;
     text-align: center;
 }
 
@@ -6417,7 +6417,7 @@ a.badge:focus {
 }
 
 .portfolio_text {
-    color: rgba(10, 50, 50, 1);
+    color: rgba(122, 133, 129, 1);
     display: inline-block;
     font: 20px Lobster, Tahoma, sans-serif;
     padding-left: 33px;

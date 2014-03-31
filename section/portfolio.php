@@ -32,7 +32,7 @@
                 <img src="img/section-portfolio-img/demo_1.png" class="demo"/>
             </td>
             <td class="portfolio_border">
-                
+
 
             </td>
             <td>
