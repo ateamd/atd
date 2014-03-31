@@ -6,4 +6,9 @@
  * Time: 14:21
  */
 ?>
-<h3><?php echo $lang['footer']; ?></h3>
+
+<table class="table_footer">
+    <tr>
+        <td class="footer"><h4>&#169 2014 ATD. All rights reserved. </h4></td>
+    </tr>
+    </table>

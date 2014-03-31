@@ -6518,3 +6518,19 @@ a.badge:focus {
     width: 100% !important;
     height: 100%;
 }
+.footer{
+    text-align: center;
+}
+
+.table_footer {
+    width: 1920px !important;
+    height: 20%;
+    border-style: solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 2px;
+    border-bottom-width: 0px;
+    border-color: rgb(54, 212, 186);
+    margin-left: -375px;
+}
+
