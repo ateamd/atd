@@ -20,6 +20,12 @@ require_once('multilanguage.php');
     <script type="text/javascript" src="js/jquery.ui.core.js"></script>
     <script type="text/javascript" src="js/jquery.ui.widget.js"></script>
     <script type="text/javascript" src="js/jquery.ui.rcarousel.js"></script>
+    <script type="text/javascript" src="js/_dependent/greensock/TweenMax.min.js"></script>
+    <script type="text/javascript" src="js/_dependent/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="js/_examples/modernizr.custom.min.js"></script>
+    <script type="text/javascript" src="js/_mobile/iscroll.js"></script>
+    <script type="text/javascript" src="js/jquery.scrollmagic.min.js"></script>
+    <script type="text/javascript" src="js/_examples/demo.js"></script>
 </head>
 
 <body>
