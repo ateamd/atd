@@ -6418,7 +6418,7 @@ a.badge:focus {
 }
 
 .portfolio_text {
-    color: black;
+    color: rgba(10, 50, 50, 1);
     display: inline-block;
     font: 20px Lobster, Tahoma, sans-serif;
     padding-left: 33px;
