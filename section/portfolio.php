@@ -29,10 +29,10 @@
         </tr>
         <tr class="height_portfolio">
             <td>
-                
+                <img src="img/section-portfolio-img/demo_1.png" class="demo"/>
             </td>
             <td class="portfolio_border">
-                <img src="img/section-portfolio-img/arrow_l.png" class="portfolio_strzalki_l"/>
+                
 
             </td>
             <td>

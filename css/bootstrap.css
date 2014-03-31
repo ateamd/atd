@@ -6394,15 +6394,14 @@ a.badge:focus {
 }
 
 .demo {
-    width: 75%;
-    height: 63%;
+    width: 53%;
+    height: 48%;
     border-style: solid;
     border-right-width: 2px;
     border-left-width: 2px;
     border-top-width: 2px;
     border-bottom-width: 2px;
     border-color: rgb(171,171,171);
-
 }
 
 .height_portfolio{
