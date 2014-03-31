@@ -6448,15 +6448,15 @@ a.badge:focus {
 }
 
 .portfolio_strzalki_l {
-    width: 166px;
+    width: 155px;
     height: 36%;
     margin-left: -20px;
 }
 
 .portfolio_strzalki_r {
-    width: 166px;
+    width: 126px;
     height: 36%;
-    margin-left: 0px;
+    margin-left: 5px;
 }
 
 .clients_img{
