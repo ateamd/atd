@@ -6336,7 +6336,12 @@ a.badge:focus {
     height: 520px;
     margin-left: -260px;
     width: 140% !important;
-
+    border-style: solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-color: rgb(54, 212, 186);
 }
 
 .glass {
@@ -6345,6 +6350,7 @@ a.badge:focus {
     background-color: rgba(54, 212, 186, 0.5);
     position: absolute;
     margin-left: 34%;
+    margin-top: 2px;
 }
 
 #portfolio {
@@ -6415,7 +6421,7 @@ a.badge:focus {
 
 .portfolio_border{
     border-style: solid;
-    border-right-width: 5px;
+    border-right-width: 2px;
     border-left-width: 0px;
     border-top-width: 0px;
     border-bottom-width: 0px;
