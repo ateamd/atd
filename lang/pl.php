@@ -14,4 +14,7 @@ $lang['portfolio_opis']= 'Lorem Ipsum jest tekstem stosowanym jako przykładowy 
 $lang['clients_2']= 'Zaufało nam już';
 $lang['contact']= 'Kontakt';
 $lang['footer']= 'Stopka';
+$lang['name'] ='Imię i Nazwisko:';
+$lang['send'] ='Wyślij formularz';
+$lang['massage'] ='opis';
 ?>

@@ -14,5 +14,7 @@ $lang['portfolio_opis']= 'Lorem Ipsum is simply dummy text of the printing and t
 $lang['clients_2']= 'Trusted us';
 $lang['contact']= 'Contact';
 $lang['footer']= 'Footer';
-
+$lang['name'] ='Name and Surname:';
+$lang['send'] ='Send the form';
+$lang['massage'] ='description';
 ?>
