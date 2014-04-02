@@ -6403,5 +6403,11 @@ a.badge:focus {
     border-color: #36D4BA;
     outline:0;
 }
+.text_box_form:hover {
+    border-width: 0px 0px 1px 1px;
+}
+.text_box_form:focus {
+    border-width: 1px 1px 1px 1px;
+}
 
 
