@@ -42,9 +42,9 @@
         <td>
             <table class=tabledwa>
                 <tr>
-                    <td><a href="http://atd.adwmicro.pl"><img src="img/section-conto-img/twit.png"></a></td>
+                    <td><a href="https://twitter.com/AmentesTeam"><img src="img/section-conto-img/twit.png"></a></td>
                     <td><a href="https://www.facebook.com/amentesteamdevelopment"><img src="img/section-conto-img/face.png"></a></td>
-                    <td><a href="http://atd.adwmicro.pl"><img src="img/section-conto-img/gog.png"></a></td>
+                    <td><a href="https://plus.google.com/u/0/109699041792924459287/posts"><img src="img/section-conto-img/gog.png"></a></td>
                     <td><a href="skype:amentesteamdev?chat"><img src="img/section-conto-img/skype.png"></a></td>
                 </tr>
             </table>
