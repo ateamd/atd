@@ -5,6 +5,26 @@ require_once('multilanguage.php');
 <!DOCTYPE html>
 <html>
 <head>
+    <script type="text/javascript">
+        <!--
+        if (screen.width <= 1100) {
+            document.location = "devices/tablets.html";
+        }
+        if (screen.width <= 800) {
+            document.location = "devices/phablets.html";
+        }
+        if (screen.width <= 600) {
+            document.location = "devices/mobile_big.html";
+        }
+        if (screen.width <= 480) {
+            document.location = "devices/mobile.html";
+        }
+        if (screen.width <= 320) {
+            document.location = "devices/mobile_small.html";
+        }
+
+        //-->
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>ATD TEAM</title>
@@ -26,10 +46,19 @@ require_once('multilanguage.php');
     <script type="text/javascript" src="js/_mobile/iscroll.js"></script>
     <script type="text/javascript" src="js/jquery.scrollmagic.min.js"></script>
     <script type="text/javascript" src="js/_examples/demo.js"></script>
+    <meta itemprop="url" content="http://adwmicro.pl">
+    <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+    <span itemprop="dayOfWeek" itemscope itemtype="http://schema.org/DayOfWeek">
+    <meta itemprop="name" content="Poniedziałek - Piątek"></span></span>
+    <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+    <meta itemprop="addressLocality" content="Kraków"></span>
+    <meta itemprop="email" content="Adrian@adwmicro.pl">
+    <meta itemprop="telephone" content="793-785-747">
+    <meta itemprop="name" content="Amentes Team Development">
 </head>
 
 <body>
-<div itemscope itemtype="http://schema.org/LocalBusiness" class="container">
+<div class="container">
     <div id="menu">
         <?php include 'section/menu.php'; ?>
     </div>
@@ -56,15 +85,7 @@ require_once('multilanguage.php');
 
     <div id="footer">
         <?php include 'section/footer.php'; ?>
-        <meta itemprop="url" content="http://adwmicro.pl">
-            <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
-            <span itemprop="dayOfWeek" itemscope itemtype="http://schema.org/DayOfWeek">
-<meta itemprop="name" content="Poniedziałek - Piątek"></span></span>
-            <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-            <meta itemprop="addressLocality" content="Kraków"></span>
-        <meta itemprop="email" content="Adrian@adwmicro.pl">
-        <meta itemprop="telephone" content="793-785-747">
-        <meta itemprop="name" content="Amentes Team Development">
+
     </div>
 </body>
 </html>
