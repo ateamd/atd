@@ -86,8 +86,8 @@
                 .addTo(controller)
                 .triggerHook("onCenter")
                 .setTween(new TimelineMax().add([
-                    TweenMax.fromTo("#parallax #big", 1, {scale: 2, alpha: 0.1, top: "100%"}, {top: "0%", ease: Linear.easeNone}),
-                    TweenMax.to("#parallax #parallaxbg", 1, {backgroundPosition: "0 -260%", ease: Linear.easeNone})
+                    TweenMax.fromTo("#parallax #big", 1, {scale: 2, alpha: 0.1, top: "10%"}, {top: "0%", ease: Linear.easeNone}),
+                    TweenMax.to("#parallax #parallaxbg", 1, {backgroundPosition: "30% 105%", ease: Linear.easeNone})
                 ]));
         </script>
     </section>
