@@ -34,6 +34,10 @@ require_once('../multilanguage.php');
     </head>
 <body>
     <center>
+        <section id="menu">
+            <?php include '../section/menumob.php'; ?>
+        </section>
+
         <section id="scrolls">
         <h2><?php echo $lang['scroll']; ?></h2>
         <h3><?php echo $lang['scroll_2']; ?></h3>
