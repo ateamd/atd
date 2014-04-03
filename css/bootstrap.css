@@ -10,6 +10,9 @@
  @font-face {
 font-family: "Raleway-Regular"; src: url(fonts/Raleway-Regular.ttf);
 }
+@font-face {
+    font-family: "Raleway-ExtraBold"; src: url(fonts/Raleway-ExtraBold.ttf);
+}
 
 .clearfix {
     *zoom: 1;
@@ -6159,10 +6162,9 @@ a.badge:focus {
 .portfolio_text {
     color: rgba(255, 255, 255, 1);
     display: inline-block;
-    font: 20px Raleway-Regular, sans-serif;
+    font: 20px Raleway-ExtraBold, sans-serif;
     padding-left: 33px;
     text-align: center;
-    font-weight: bold;
     width: 74%;
 }
 
