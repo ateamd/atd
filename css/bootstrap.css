@@ -6102,6 +6102,7 @@ a.badge:focus {
     -khtml-border-radius: 10px;
     border: 2px solid #36D4BA;
     height: 30px;
+    margin-top: 10px;
 
 }
 
@@ -6431,6 +6432,7 @@ a.badge:focus {
     border-width: 0px 0px 1px 0px;
     border-color: #36D4BA;
     outline:0;
+    margin-top: 5px;
 }
 .text_box_form:hover {
     border-width: 0px 0px 1px 1px;
