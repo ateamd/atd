@@ -1,0 +1,77 @@
+.demo{
+    width:30%;
+    height:30%;
+}
+.clients_img{
+    width: 230px ;
+    height: 113px ;
+}
+#slideshow {
+    margin: 50px auto;
+    position: relative;
+    width: 232px;
+    height: 114px;
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    text-align: left;
+}
+#slideshow_1 {
+    margin: 50px auto;
+    position: relative;
+    width: 232px;
+    height: 114px;
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    text-align: left;
+}
+#slideshow_2 {
+    margin: 50px auto;
+    position: relative;
+    width: 232px;
+    height: 114px;
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    text-align: left;
+}
+#slideshow_3 {
+    margin: 50px auto;
+    position: relative;
+    width: 232px;
+    height: 114px;
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    text-align: left;
+}
+
+#slideshow > div {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+#slideshow_1 > div {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+#slideshow_2 > div {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+#slideshow_3 > div {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+
+.table_clients {
+
+}

@@ -11,7 +11,7 @@ require_once('multilanguage.php');
             document.location = "devices/tablets.html";
         }
         if (screen.width <= 800) {
-            document.location = "devices/phablets.html";
+            document.location = "devices/phablets.php";
         }
         if (screen.width <= 600) {
             document.location = "devices/mobile_big.html";
