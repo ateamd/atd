@@ -6169,10 +6169,11 @@ a.badge:focus {
 }
 
 .portfolio_background {
-    background-color: rgba(54, 212, 186, 0.5);
+    background-color: rgba(35, 104, 92, 0.5);
     z-index: 990;
     height: 520px;
 }
+
 .portfolio_border{
     border-style: solid;
     border-right-width: 2px;
