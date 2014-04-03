@@ -1,3 +1,14 @@
+@font-face {
+    font-family: "Raleway-Regular"; src: url(../fonts/Raleway-Regular.ttf);
+}
+body {
+
+    font-family: 'Raleway-Regular', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #ffffff;
+
+}
 .demo{
     width:30%;
     height:30%;
@@ -74,4 +85,32 @@
 
 .table_clients {
 
+}
+.onas{
+    text-align:center;
+    margin: 0px 0 0 0px;
+}
+.onas_foto {
+    background-image: url(../../img/section-aboutus-img/foto.jpg);
+    width: 100% !important;
+    height: 370px;
+}
+.glass {
+    width: 48%;
+    height: 310px;
+    background-color: rgba(54, 212, 186, 0.5);
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -370px;
+    z-index: 990;
+    float: right;
+    color: FFF;
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 38px;
+    padding-top: 60px;
+}
+#scrolls {
+    margin-bottom: 25%;
+    margin-top: 25%;
 }
