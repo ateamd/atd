@@ -5969,6 +5969,7 @@ a.badge:focus {
     height: 52px;
     opacity: 1;
     margin-left: 35px;
+    margin-top: -10px;
 }
 
 .menug li a:hover {
@@ -5986,7 +5987,7 @@ a.badge:focus {
     z-index: 2;
     text-decoration: none !important;
     white-space: nowrap;
-    margin-top: -10px;
+    margin-top: 10px;
 }
 
 .menugs {
@@ -6012,7 +6013,7 @@ a.badge:focus {
     width: 77px;
     height: 37px;
     margin-right: 50px;
-    margin-top: 0px;
+    margin-top: -6px;
 }
 .jen {
     margin-right: 110px;
