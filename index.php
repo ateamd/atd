@@ -29,11 +29,6 @@ require_once('multilanguage.php');
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>ATD TEAM</title>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
-    <link href="css/mobile_css/mobile.css" rel="stylesheet" type="text/css"/>
-    <link href="css/mobile_css/mobile_big.css" rel="stylesheet" type="text/css"/>
-    <link href="css/mobile_css/mobile_small.css" rel="stylesheet" type="text/css"/>
-    <link href="css/mobile_css/phablets.css" rel="stylesheet" type="text/css"/>
-    <link href="css/mobile_css/tablets.css" rel="stylesheet" type="text/css"/>
     <link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css"/>
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen"/>
