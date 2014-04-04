@@ -15,6 +15,7 @@ $lang['clients_2']= 'Trusted us';
 $lang['contact']= 'Contact';
 $lang['contact_2']= 'Write to us';
 $lang['footer']= 'Footer';
+$lang['language'] = 'Language';
 $lang['name'] ='Name and Surname:';
 $lang['send'] ='Send the form';
 $lang['massage'] ='description';

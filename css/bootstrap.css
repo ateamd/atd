@@ -5955,7 +5955,7 @@ a.badge:focus {
     z-index: 9999;
     opacity: 1;
     height: 60px;
-    margin-left: 10%;
+    margin-left: 19%;
     margin-top: 7px;
 }
 
@@ -6367,6 +6367,9 @@ a.badge:focus {
 }
 .text_box_form:focus {
     border-width: 1px 1px 1px 1px;
+}
+.arrow{
+    font-size: 10px;
 }
 
 
