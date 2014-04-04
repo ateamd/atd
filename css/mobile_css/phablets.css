@@ -288,3 +288,16 @@ li li a:hover, li li a:focus {
 .fail li li a:hover, .fail li li a:focus {
     background: #36D4BA;
 }
+
+#portfolio{
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+.portfolio_background{
+    background-image: url(../../img/section-portfolio-img/foto1.jpg);
+}
+.demo{
+    width:50%;
+    height:40%;
+
+}

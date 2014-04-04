@@ -51,4 +51,7 @@ require_once('../multilanguage.php');
 <div class="onas_foto"></div>
         <div class="glass"><div class="onas" ><?php echo $lang['description']; ?></div></div>
     </center>
+    <div id="portfolio">
+        <?php include '../section/portfolio_tablet.php'; ?>
+    </div>
 </div>
