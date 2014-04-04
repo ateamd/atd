@@ -192,3 +192,58 @@ body {
     text-decoration:underline;
     -moz-transform:scale(1.05);
     -webkit-transform:scale(1.05);
+
+
+    .tabletrtel {
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    width: 100%;
+    
+
+}
+
+.buttonstel {
+    background-color: #36D4BA;
+    color: white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border: 2px solid #36D4BA;
+    height: 30px;
+    margin-top: 10px;
+
+}
+
+.tabledwatel {
+    border: 2px solid #36D4BA;
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -khtml-border-radius: 10px !important;
+    width: 800px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 0px;
+
+}
+
+
+.text_box_form{
+    height: 40px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #36D4BA;
+    outline:0;
+    margin-top: 5px;
+}
+.text_box_form:hover {
+    border-width: 0px 0px 1px 1px;
+}
+.text_box_form:focus {
+    border-width: 1px 1px 1px 1px;
+}
