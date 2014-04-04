@@ -1,4 +1,4 @@
-<ul id="nav">
+<ul id="navtel">
         
         <li>
             <a href="#" >MENU</a>
