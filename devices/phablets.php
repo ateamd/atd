@@ -33,9 +33,10 @@ require_once('../multilanguage.php');
         <meta itemprop="name" content="Amentes Team Development">
     </head>
 <body>
+<div class="container">
     <center>
         <section id="menu">
-            <?php include '../section/menumob.php'; ?>
+            <?php include '../section/menu_tablets.php'; ?>
         </section>
 
         <section id="scrolls">
@@ -50,3 +51,4 @@ require_once('../multilanguage.php');
 <div class="onas_foto"></div>
         <div class="glass"><div class="onas" ><?php echo $lang['description']; ?></div></div>
     </center>
+</div>
