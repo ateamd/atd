@@ -11,16 +11,61 @@ body {
     background-color: #ffffff;
 
 }
+h1{
+    font-size: 3em;
+}
+h2 {
+    font-size: 2.0em;
+    line-height: 40px;
+}
+h3{
+    font-size: 1.7em;
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+.table_clients {
+    width: 80%;
+    height: 60%;
+}
 
 #menu {
     width: 100%;
     height: 10%;
     font-size: 20px;
 }
+#portfolio{
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
 
 .demo {
-    width: 30%;
-    height: 30%;
+    width: 85%;
+    height: 50%;
+    margin-top: 15px;
+    margin-left: 30px;
+    border-width: 2px 2px 2px 2px;
+    border-color: rgb(54,212,186);
+    border-style: solid;
+}
+
+.portfolio_border{
+    border-right-width: 2px;
+    border-color: rgb(54,212,186);
+    border-style: solid;
+}
+
+.portfolio_text {
+    font-size: 1em;
+    font-weight: bolder;
+    color: rgb(54,212,186);
+    text-align: center;
 }
 
 .clients_img {
@@ -98,10 +143,6 @@ body {
     left: 10px;
     right: 10px;
     bottom: 10px;
-}
-
-.table_clients {
-
 }
 
 .onas {
@@ -287,4 +328,11 @@ li li a:hover, li li a:focus {
 
 .fail li li a:hover, .fail li li a:focus {
     background: #36D4BA;
+}
+.portfolio_background{
+    width: 100%;
+    height:420px;
+}
+.portfolio_table{
+    margin-top: -420px;
 }

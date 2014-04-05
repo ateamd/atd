@@ -38,20 +38,31 @@ require_once('../multilanguage.php');
         <section id="menu">
             <?php include '../section/menu_tablets.php'; ?>
         </section>
-
+    </center>
         <section id="scrolls">
-        <h2><?php echo $lang['scroll']; ?></h2>
-        <h3><?php echo $lang['scroll_2']; ?></h3>
-        <img src="../img/section-scroll-img/scrollsg.png">
+            <center>
+                <h2><?php echo $lang['scroll']; ?></h2>
+                <h3><?php echo $lang['scroll_2']; ?></h3>
+                <img src="../img/section-scroll-img/scrollsg.png">
+            </center>
         </section>
+    <section id="aboutus">
+        <center>
             <div class="br">
                 <h1><?php echo $lang['about']; ?></h1>
                 <h3><?php echo $lang['about_2']; ?></h3>
             </div>
-<div class="onas_foto"></div>
+            <div class="onas_foto"></div>
         <div class="glass"><div class="onas" ><?php echo $lang['description']; ?></div></div>
     </center>
-    <div id="portfolio">
-        <?php include '../section/portfolio_tablet.php'; ?>
+    </section>
+    <section id="portfolio">
+         <?php include '../section/portfolio_tablet.php'; ?>
+    </section>
+    <div id="clients">
+        <center>
+        <?php include '../section/clients_tablet.php'; ?>
+        </center>
     </div>
+
 </div>

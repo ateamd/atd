@@ -13,8 +13,8 @@
 
     <h3><?php echo $lang['portfolio_2']; ?></h3>
 </div></center>
-        <div class="portfolio_background">
-            <table>
+            <img src="../img/section-portfolio-img/foto2.jpg" class="portfolio_background">
+            <table class="portfolio_table">
                 <tr class="br_portfolio">
                     <td>
 
@@ -91,6 +91,5 @@
                     </td>
                 </tr>
             </table>
-        </div>
 </section>
 
