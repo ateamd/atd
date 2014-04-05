@@ -21,8 +21,8 @@ h2 {
 h3{
     font-size: 1.7em;
 }
-h4{
-
+h4 {
+    margin-top: 10px;
 }
 h5{
 
@@ -30,9 +30,62 @@ h5{
 h6{
 
 }
+.buttons {
+    width: 33.3%;
+    margin-top: 3%;
+    height: 40px;
+    border-color: #36D4BA;
+    background-color: white;
+}
+.contact_form{
+    width:90%;
+}
+.text_box_form{
+    height: 40px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #36D4BA;
+    outline:0;
+    margin-top: 5px;
+}
+#contact{
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+.br_contact{
+    margin-bottom: 50px;
+}
+.text_box_form:hover {
+    border-width: 0px 0px 1px 1px;
+}
+.text_box_form:focus {
+    border-width: 1px 1px 1px 1px;
+}
+.contact_form_ico{
+    border-right: 0px solid #36D4BA;
+}
+.footer{
+    width: 100%;
+    heigth:40px;
+    border-style: solid;
+    border-top-width: 2px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-color: #36D4BA;
+}
+.table_footer{
+ width: 100%;
+
+}
 .table_clients {
     width: 80%;
     height: 60%;
+}
+#clients{
+    margin-top: 25%;
+    margin-bottom: 25%;
 }
 
 #menu {
@@ -173,8 +226,8 @@ h6{
 }
 
 #scrolls {
-    margin-bottom: 25%;
-    margin-top: 25%;
+    margin-bottom: 30%;
+    margin-top: 30%;
 }
 
 .container {
@@ -232,11 +285,11 @@ ul, ul div {
 li {
     display: table-cell;
     position: relative;
+    border-right: 2px solid #36D4BA;
 }
 
 a {
     background: #FFFFFF;
-    border-right: 2px solid #36D4BA;
     color: #000000;
     display: block;
     padding: .375em;
@@ -279,12 +332,11 @@ a:hover, a:focus, li:hover > a {
 }
 
 ul ul, ul div {
-    border-width: 0 2px;
+    border-width: 0px 1px 0px 3px;
     left: -999em;
     margin-left: 2px !important;
     width: 99%;
     position: absolute;
-
 }
 
 ul div ul {

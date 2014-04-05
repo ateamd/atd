@@ -59,10 +59,19 @@ require_once('../multilanguage.php');
     <section id="portfolio">
          <?php include '../section/portfolio_tablet.php'; ?>
     </section>
-    <div id="clients">
+    <section id="clients">
         <center>
         <?php include '../section/clients_tablet.php'; ?>
         </center>
-    </div>
+    </section>
+    <section id="contact">
+        <center>
+        <?php include '../section/contact_tablet.php'; ?>
+        </center>
+    </section>
+    <section id="footer">
+            <?php include '../section/footer_tablet.php'; ?>
+    </section>
+
 
 </div>
