@@ -6162,16 +6162,16 @@ a.badge:focus {
 }
 
 .portfolio_text {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(54,212,185);
     display: inline-block;
     font: 20px Raleway-ExtraBold, sans-serif;
     padding-left: 33px;
     text-align: center;
     width: 74%;
+    -webkit-text-stroke: 0.5px black;
 }
 
 .portfolio_background {
-    background-color: rgba(35, 104, 92, 0.5);
     z-index: 990;
     height: 520px;
 }
@@ -6341,7 +6341,7 @@ a.badge:focus {
     top: 50%;
     width: 1920px !important;
     margin-top: 0px;
-    background-image: url("../img/section-portfolio-img/foto1.jpg");
+    background-image: url("../img/section-portfolio-img/foto2.jpg");
     z-index: 9990;
     height: 520px;
     margin-left: -208px;
