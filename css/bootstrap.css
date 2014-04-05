@@ -6142,13 +6142,12 @@ a.badge:focus {
     width: 53%;
     height: 48%;
     border-style: solid;
-    border-right-width: 5px;
-    border-left-width: 5px;
-    border-top-width: 5px;
-    border-bottom-width: 5px;
+    border-right-width: 2px;
+    border-left-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
     border-color: rgb(54, 212, 186);
 }
-
 .height_portfolio{
     height:40%;
 }
