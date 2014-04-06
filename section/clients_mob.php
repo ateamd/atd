@@ -12,7 +12,7 @@
     <h3><?php echo $lang['clients_2']; ?></h3>
 </div>
 <center>
-    <table class="table_clients" >
+    <table class="table_clients"  >
         <tr>
             <td>
                 <div id="slideshow">
@@ -32,8 +32,8 @@
                         <img src="../img/section-clients-img/logo_5.jpg" class="clients_img">
                     </div>
 
-                </div></td>
-            <td>
+                </div></td></tr>
+           <tr> <td>
                 <div id="slideshow_1">
                     <div>
                         <img src="../img/section-clients-img/logo_2.jpg" class="clients_img">
@@ -51,8 +51,8 @@
                         <img src="../img/section-clients-img/logo_1.jpg" class="clients_img">
                     </div>
 
-                </div></td>
-            </tr>
+                </div></td></tr>
+            
         <tr>
             <td>
                 <div id="slideshow_2">
@@ -72,8 +72,8 @@
                         <img src="../img/section-clients-img/logo_2.jpg" class="clients_img">
                     </div>
 
-                </div></td>
-            <td>
+                </div></td></tr>
+          <tr>  <td>
                 <div id="slideshow_3">
                     <div>
                         <img src="../img/section-clients-img/logo_4.jpg" class="clients_img">

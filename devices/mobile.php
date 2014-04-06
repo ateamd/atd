@@ -36,7 +36,7 @@ require_once('../multilanguage.php');
 <div class="container">
     <center>
         <section id="menu">
-            <?php include '../section/menu_mob_all.php'; ?>
+            <?php include '../section/menu_tablets.php'; ?>
         </section>
     </center>
         <section id="scrolls">
@@ -61,12 +61,12 @@ require_once('../multilanguage.php');
     </section>
     <section id="clients">
         <center>
-        <?php include '../section/clients_tablet.php'; ?>
+        <?php include '../section/clients_mob.php'; ?>
         </center>
     </section>
     <section id="contact">
         <center>
-        <?php include '../section/contact_mob_all.php'; ?>
+        <?php include '../section/contact_tablet.php'; ?>
         </center>
     </section>
     <section id="footer">
