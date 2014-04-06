@@ -7,7 +7,7 @@
  */
 ?>
 
-<div class="br">
+<div class="brt">
     <h1><?php echo $lang['clients']; ?></h1>
     <h3><?php echo $lang['clients_2']; ?></h3>
 </div>
