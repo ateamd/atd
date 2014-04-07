@@ -6051,11 +6051,11 @@ a.badge:focus {
     margin-left: -0px;
     background:white;
 }
-}
+
 .nav ul li{
     padding-top:1px; /* Вводим отступ между li чтобы создать иллюзию разделенных пунктов меню */
     float:none;
-    background:url(dot.gif);
+
 }
 .nav ul a{
     white-space:nowrap; /* Останавливаем перенос текста и создаем многострочный выпадающий пункт */
@@ -6083,14 +6083,6 @@ a.badge:focus {
     -moz-transform:scale(1.05);
     -webkit-transform:scale(1.05);
 }
-
-
-
-
-
-
-
-
 
 .menugs {
     overflow: hidden;
@@ -6242,7 +6234,7 @@ a.badge:focus {
 
 .demo {
     width: 53%;
-    height: 48%;
+    height: 23%;
     border-style: solid;
     border-right-width: 2px;
     border-left-width: 2px;

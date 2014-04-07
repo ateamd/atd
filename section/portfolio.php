@@ -94,7 +94,7 @@
         </tr>
         <tr class="height_portfolio">
             <td>
-                <img src="img/section-portfolio-img/demo_1.png" class="demo"/>
+               <a href="http://agnieszka.adwmicro.pl"> <img src="img/section-portfolio-img/demo1.jpg" class="demo"/></a>
             </td>
             <td class="portfolio_border">
 
@@ -136,7 +136,7 @@
 
             </td>
             <td>
-                <img src="img/section-portfolio-img/demo_2.png" class="demo"/>
+               <a href="http://adwmicro.pl"><img src="img/section-portfolio-img/demo2.jpg" class="demo"/></a>
             </td>
         </tr>
         <tr class="br_portfolio">

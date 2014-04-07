@@ -8,19 +8,19 @@ require_once('multilanguage.php');
     <script type="text/javascript">
         <!--
         if (screen.width <= 1100) {
-            document.location = "devices/tablets.html";
+            document.location = "devices/tablets.php";
         }
         if (screen.width <= 800) {
             document.location = "devices/phablets.php";
         }
         if (screen.width <= 600) {
-            document.location = "devices/mobile_big.html";
+            document.location = "devices/mobile_big.php";
         }
         if (screen.width <= 480) {
-            document.location = "devices/mobile.html";
+            document.location = "devices/mobile.php";
         }
         if (screen.width <= 320) {
-            document.location = "devices/mobile_small.html";
+            document.location = "devices/mobile_small.php";
         }
 
         //-->
