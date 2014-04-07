@@ -63,7 +63,7 @@
                 <tr class="height_portfolio">
                     <td>
                         <div class="portfolio_text">
-                            <?php echo $lang['portfolio_opis']; ?>
+                            <?php echo $lang['portfolio_opis_2']; ?>
                         </div>
                     </td>
                     <td class="portfolio_border">
