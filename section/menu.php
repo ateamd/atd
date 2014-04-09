@@ -2,7 +2,7 @@
     <div class="center">
 <ul class="nav">
         <li id="hm">
-            <a href="http://atd.adwmicro.pl" ><img src="img/section-menu-img/logoatd.png" itemprop="image" class="logo"></a>
+            <a href="http://adwmicro.pl" ><img src="img/section-menu-img/logoatd.png" itemprop="image" class="logo"></a>
         </li>
         <li id="st">
             <a href="javascript:jumpScroll1()"><?php echo $lang['home']; ?></a>
@@ -23,7 +23,7 @@
 
 
         <li>
-            <a href="#"><?php echo $lang['language'] ; ?></a>
+            <a><?php echo $lang['language'] ; ?></a>
             <ul>
                 <li><a href="?lang=pl" >PL</a></li>
                 <li><a href="?lang=ang">ENG</a></li>

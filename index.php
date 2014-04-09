@@ -27,7 +27,9 @@ require_once('multilanguage.php');
     </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>ATD TEAM</title>
+    <title>Amentes Team - Tworzymy stony z pasją i zaangażowaniem. </title>
+    <meta name="description" content="Szukasz kogoś kto zrobi twoją stornę internetową ? Zleć to nam.">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript,tworzenie stron,developer,developers,front-end,back-end,Adrian Wojdat,Wasyl Onufriciuk,Michael Krasnopolskyi ">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
     <link href="css/bootstrap-responsive.css" rel="stylesheet" type="text/css"/>
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>
@@ -35,7 +37,6 @@ require_once('multilanguage.php');
     <script type="text/javascript" src="js/jquery.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="js/carousel_script.js"></script>
-    <link rel="SHORTCUT ICON" href="" type="image/x-icon">
     <script type="text/javascript" src="js/jquery-1.7.1.js"></script>
     <script type="text/javascript" src="js/jquery.ui.core.js"></script>
     <script type="text/javascript" src="js/jquery.ui.widget.js"></script>
@@ -46,6 +47,7 @@ require_once('multilanguage.php');
     <script type="text/javascript" src="js/_mobile/iscroll.js"></script>
     <script type="text/javascript" src="js/jquery.scrollmagic.min.js"></script>
     <script type="text/javascript" src="js/_examples/demo.js"></script>
+    <link rel="shortcut icon" href="img/Atd_ico.png"/>
     <meta itemprop="url" content="http://adwmicro.pl">
     <span itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification">
     <span itemprop="dayOfWeek" itemscope itemtype="http://schema.org/DayOfWeek">
