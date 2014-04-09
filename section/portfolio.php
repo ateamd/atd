@@ -77,7 +77,7 @@
         <div class="bottom"></div>
 
 <div class="portfolio_background">
-    <table>
+    <table class="portfolio_width_table">
         <tr class="br_portfolio">
             <td>
 
@@ -136,7 +136,7 @@
 
             </td>
             <td>
-               <a href="http://adwmicro.pl"><img src="img/section-portfolio-img/demo2.jpg" class="demo"/></a>
+               <a href="http://adwmicro.pl"><img src="img/section-portfolio-img/demo2.jpg" class="demo_2"/></a>
             </td>
         </tr>
         <tr class="br_portfolio">

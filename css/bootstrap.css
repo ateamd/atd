@@ -5953,15 +5953,14 @@ a.badge:focus {
     margin-top: -10px;
     margin-bottom: 36px;
 }
-
 .brbr {
     margin-top: -20px;
     margin-bottom: 66px;
-    margin-left: -18%;
+    margin-left: -10%;
 }
 
 .demo {
-    width: 53%;
+    width: 43%;
     height: 23%;
     border-style: solid;
     border-right-width: 2px;
@@ -5969,6 +5968,20 @@ a.badge:focus {
     border-top-width: 2px;
     border-bottom-width: 2px;
     border-color: rgb(54, 212, 186);
+    margin-left: auto;
+    margin-right: auto;
+}
+.demo_2 {
+    width: 58%;
+    height: 23%;
+    border-style: solid;
+    border-right-width: 2px;
+    border-left-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-color: rgb(54, 212, 186);
+    margin-left: auto;
+    margin-right: auto;
 }
 .height_portfolio{
     height:40%;
@@ -5983,26 +5996,25 @@ a.badge:focus {
 }
 
 .portfolio_text {
+    width: 90% !important;
     color: rgb(54,212,185);
     display: inline-block;
     font: 22px Raleway-ExtraBold, sans-serif;
-    padding-left: 33px;
-    margin-left: -100px !important;
     text-align: center;
-    width: 74%;
     -webkit-text-stroke: 0.5px black;
+    margin-left: 46px;
+}
+.portfolio_width_table {
+    width: 90%;
+    margin-left: 45px;
 }
 
-
 .portfolio_text_2 {
+    width: 80% !important;
     color: rgb(54,212,185);
     display: inline-block;
-    font: 15px Raleway-ExtraBold, sans-serif;
-    padding-left: 33px;
+    font: 22px Raleway-ExtraBold, sans-serif;
     text-align: center;
-    width: 80%;
-    margin-right: -70px;
-
     -webkit-text-stroke: 0.5px black;
 }
 
