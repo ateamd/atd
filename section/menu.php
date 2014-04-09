@@ -23,7 +23,7 @@
 
 
         <li>
-            <a href="#"><?php echo $lang['language'] ; ?> ▼&nbsp;</a>
+            <a href="#"><?php echo $lang['language'] ; ?></a>
             <ul>
                 <li><a href="?lang=pl" >PL</a></li>
                 <li><a href="?lang=ang">ENG</a></li>
