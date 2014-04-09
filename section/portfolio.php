@@ -125,7 +125,7 @@
         </tr>
         <tr class="height_portfolio">
             <td>
-                <div class="portfolio_text">
+                <div class="portfolio_text_2">
                    <?php echo $lang['portfolio_opis_2']; ?>
                 </div>
             </td>

@@ -5985,10 +5985,24 @@ a.badge:focus {
 .portfolio_text {
     color: rgb(54,212,185);
     display: inline-block;
-    font: 20px Raleway-ExtraBold, sans-serif;
+    font: 22px Raleway-ExtraBold, sans-serif;
     padding-left: 33px;
+    margin-left: -100px !important;
     text-align: center;
     width: 74%;
+    -webkit-text-stroke: 0.5px black;
+}
+
+
+.portfolio_text_2 {
+    color: rgb(54,212,185);
+    display: inline-block;
+    font: 15px Raleway-ExtraBold, sans-serif;
+    padding-left: 33px;
+    text-align: center;
+    width: 80%;
+    margin-right: -70px;
+
     -webkit-text-stroke: 0.5px black;
 }
 
