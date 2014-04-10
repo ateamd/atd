@@ -5,7 +5,10 @@ require_once('../multilanguage.php');
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>ATD TEAM</title>
+    <title>Amentes Team - Tworzymy stony z pasją i zaangażowaniem. </title>
+    <meta name="description" content="Szukasz kogoś kto zrobi twoją stornę internetową ? Zleć to nam.">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript,tworzenie stron,developer,developers,front-end,back-end,Adrian Wojdat,Wasyl Onufriciuk,Michael Krasnopolskyi ">
+    <link rel="shortcut icon" href="../img/Atd_ico.png"/>
     <link href="../css/mobile_css/phablets.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen"/>
     <script type="text/javascript" src="js/jquery.js"></script>
